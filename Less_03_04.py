@@ -1,0 +1,1 @@
+print(str(bin(int(input('Введите число: ')))).replace('0b',''))
