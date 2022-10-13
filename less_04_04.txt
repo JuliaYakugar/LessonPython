@@ -1,0 +1,1 @@
+Mnogochlen stepeni 5 => 76x**5 + 41x**4 + 78x**3 + 97x**2 + 20x**1 + 81 = 0
